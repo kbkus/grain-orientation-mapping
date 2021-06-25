@@ -7,4 +7,4 @@ Keep all files in the same folder for ease of use.
 
 Be aware things may run slowly if your image is extremely large.
 
-```han.jpg``` is the large-scale image of the thin sections stitched together and will result in very large pickles being saved if directions are followed as stated in the instructions. 
+The large-scale image of the thin sections stitched together and will result in very large pickles being saved if directions are followed as stated in the instructions. 
